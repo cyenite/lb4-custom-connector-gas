@@ -1,0 +1,6 @@
+box: node:10.17.0
+
+build:
+  steps:
+    - npm-install
+    - npm-test
